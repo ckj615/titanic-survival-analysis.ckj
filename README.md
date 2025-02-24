@@ -1,4 +1,4 @@
-# titanic-survival-analysis.ckj
+# titanic-survival-analysis.ckj（附着代码及运行过程，内容详细）
 # 泰坦尼克号生存预测分析
 
 ## 项目目标
